@@ -366,7 +366,10 @@ As stated in Tests section to call the endpoints Authorization token should be p
     "success": true
 }
 '''
-## Deployment N/A
+## Deployment 
+- Project is up and running in Heroku environemt. You can find the environment details within HerokuEnv.json file. This file also contains valid tokens which belong to executive, asistant and director roles. 
+
+- postman_collection.json contains requests and tests to test project endpoints
 
 ## Authors
 Mehmet Ali OK & Udacity Team 
